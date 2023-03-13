@@ -1,0 +1,43 @@
+body {
+
+    background-color: black;
+
+    color: white;
+
+}
+
+ 
+
+h1 {
+
+    font-size: 20px;
+
+}
+
+ 
+
+p {
+
+    color: lightgrey;
+
+    font-size: 12px;
+
+}
+
+ 
+
+.my-div {
+
+    border: 2px dotted;
+
+    width: 100px;
+
+    height: 100px;
+
+}
+.my-ol {
+    list-style-type: lower-alpha;
+}
+.my-ul {
+    list-style-type: square;
+}
