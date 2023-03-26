@@ -1,0 +1,65 @@
+body {
+
+    background-color: black;
+
+    color: white;
+
+}
+
+.my-body {
+    background-color: rgb(18, 126, 221);
+}
+
+ 
+
+h1 {
+
+    font-size: 20px;
+
+  
+  
+  
+}
+
+
+
+ 
+
+p {
+
+    color: lightgrey;
+
+    font-size: 12px;
+    border-style: solid;
+    border-color: rgb(249, 240, 255);
+    border-radius: 5px;
+
+}
+
+.my-head {
+    border-style: solid;  
+    border-color: black;
+}
+
+ 
+
+.my-div {
+
+    border: 2px dotted;
+
+    width: 100px;
+
+    height: 100px;
+
+}
+.my-ol {
+    list-style-type: lower-alpha;
+}
+.my-ul {
+    list-style-type: square;
+}
+
+#kuva1 {
+    padding-left: 50px;
+    margin: 5px;
+  }
