@@ -1,0 +1,82 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    margin-left: 30px;
+}
+
+h2 {
+    margin-left: 30px;
+}
+
+h4 {
+    margin-left: 30px;
+
+}
+
+h5 {
+    margin-left: 30px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+p {
+    text-align: center;
+
+}  
+
+.my-para {
+    text-align: left;
+    margin-left: 30px;
+}
+
+
+
+#pelto {
+    float: left;
+    margin-left: 30px;
+}
+
+
+#head {
+    width: 100%;
+}
+
+#button {
+    margin-left: 30px;
+}
+
+form {
+    margin-left: 30px;
+}
+
+.carousel-inner {
+    padding: 7%;
+  }
+
+#kuva1 {
+height: 600px;    
+}
+
+#kuva2 {
+    height: 600px;
+}
+
+#kuva3 {
+    height: 600px;
+}
+
+.diapara {
+color:black
+}
+.dialabel {
+    color:black
+}
+
+
+
+
+    
